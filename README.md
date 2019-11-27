@@ -7,6 +7,9 @@
         - About Jupyter Notebook
         - Python Basic Syntax
         - Condition, Loops
+        - Python function study 1
+        - Python function study 2
+        - Python Class study 1
         
 2. Database SQL
     - Database, SQL Study 1, 2, 3, 4
