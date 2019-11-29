@@ -46,3 +46,4 @@
     - Iterator and Generator Study
     - Gmarket and Naver crawling with Scrapy
     - Naver Movie crawling with scrapy
+    - Playnomore website crawl with scrapy
