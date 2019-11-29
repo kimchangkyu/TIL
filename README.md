@@ -50,4 +50,4 @@
 
 5. Flask
     - My First Flask
-    - Flask setting on server
+    - Flask setting on server + add pickle and predict code
