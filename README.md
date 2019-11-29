@@ -10,6 +10,7 @@
         - Python function study 1
         - Python function study 2
         - Python Class study 1
+        - Python Class study 2
         
 2. Database SQL
     - Database, SQL Study 1, 2, 3, 4
@@ -40,3 +41,8 @@
     - Web Study Summary
     - HTML and CSS Selector Summary
     - Requests Study Summary
+
+4. Scrapy
+    - Iterator and Generator Study
+    - Gmarket and Naver crawling with Scrapy
+    - Naver Movie crawling with scrapy
