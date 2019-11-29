@@ -41,3 +41,8 @@
     - Web Study Summary
     - HTML and CSS Selector Summary
     - Requests Study Summary
+
+4. Scrapy
+    - Iterator and Generator Study
+    - Gmarket and Naver crawling with Scrapy
+    - Naver Movie crawling with scrapy
