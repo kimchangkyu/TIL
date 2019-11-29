@@ -3,7 +3,7 @@
 ### Today I Learned..
 
 1. Python
-    - python
+    1. python
         - About Jupyter Notebook
         - Python Basic Syntax
         - Condition, Loops
