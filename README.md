@@ -47,3 +47,7 @@
     - Gmarket and Naver crawling with Scrapy
     - Naver Movie crawling with scrapy
     - Playnomore website crawl with scrapy
+
+5. Flask
+    - My First Flask
+    - Flask setting on server
