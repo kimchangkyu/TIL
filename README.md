@@ -13,6 +13,9 @@
         - Python Class study 2
         - Python modeule package
         - Try except
+    2. numpy-pandas
+        - Python numpy study 1
+        - Python numpy study 2
         
 2. Database SQL
     - Database, SQL Study 1, 2, 3, 4
