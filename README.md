@@ -16,6 +16,8 @@
     2. numpy-pandas
         - Python numpy study 1
         - Python numpy study 2
+        - Python pandas study 1
+        - Python pandas study 2
         
 2. Database SQL
     - Database, SQL Study 1, 2, 3, 4
