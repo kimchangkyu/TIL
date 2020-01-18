@@ -60,3 +60,6 @@
 5. Flask
     - My First Flask
     - Flask setting on server + add pickle and predict code
+
+6. Regular Expression
+    - Regular Expression 1
